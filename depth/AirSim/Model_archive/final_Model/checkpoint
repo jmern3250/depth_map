@@ -1,0 +1,2 @@
+model_checkpoint_path: "f_data_1_epochs_29_batchsize_5_rate_1e-05_dec"
+all_model_checkpoint_paths: "f_data_1_epochs_29_batchsize_5_rate_1e-05_dec"

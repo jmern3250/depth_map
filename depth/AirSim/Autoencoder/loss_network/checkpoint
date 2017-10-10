@@ -1,0 +1,2 @@
+model_checkpoint_path: "loss_network_dec"
+all_model_checkpoint_paths: "loss_network_dec"

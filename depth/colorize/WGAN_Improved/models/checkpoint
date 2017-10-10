@@ -1,0 +1,4 @@
+model_checkpoint_path: "final_model_disc"
+all_model_checkpoint_paths: "int_model_disc-9"
+all_model_checkpoint_paths: "int_model_disc-19"
+all_model_checkpoint_paths: "final_model_disc"

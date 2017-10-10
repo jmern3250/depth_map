@@ -1,0 +1,6 @@
+model_checkpoint_path: "int_model_disc-119"
+all_model_checkpoint_paths: "int_model_disc-79"
+all_model_checkpoint_paths: "int_model_disc-89"
+all_model_checkpoint_paths: "int_model_disc-99"
+all_model_checkpoint_paths: "int_model_disc-109"
+all_model_checkpoint_paths: "int_model_disc-119"
